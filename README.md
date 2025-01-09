@@ -24,6 +24,6 @@ This project is a decentralized ticketing system built on Blockchain, using NFTs
 
 ## Installation:
 
-# Clone The Repository: 
+# Clone The Repository: https://github.com/satyaidk/nft-ticketing-simple-dapp
 
 Clone this repo to run on your local system to is the web view of Dapp!..
