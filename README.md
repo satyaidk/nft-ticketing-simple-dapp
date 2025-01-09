@@ -1,4 +1,4 @@
-# NFT Ticketing System
+# NFT Ticketing System Dapp!
 
 This project is a decentralized ticketing system built on Blockchain, using NFTs (Non-Fungible Tokens) to represent event tickets. It allows event organizers to create events and sell tickets, while attendees can purchase and own their tickets as unique digital assets.
 
